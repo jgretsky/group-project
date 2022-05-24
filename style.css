@@ -49,3 +49,9 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.Julia-style {
+    color: green;
+    background-color: white;
+    padding: 3px;
+}
